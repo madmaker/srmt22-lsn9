@@ -15,16 +15,4 @@ button {
         background: $primary-color-focus;
         border-color: $primary-color-focus;
     }
-    .btn-outline {
-        background: transparent;
-        border: white solid 1px;
-        color: white;
-    
-        :hover,
-        :focus,
-        :active {
-            background: black;
-            border-color:black;
-        }
-    }
 }

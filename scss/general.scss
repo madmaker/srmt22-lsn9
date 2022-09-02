@@ -11,15 +11,8 @@ html,body {
     overflow: auto;
 }
 
-/* grid common styles*/
-.grid-wrapper {
-    display: grid;
-  }
-/* -- grid common styles*/
-
 @import 'ui-elements';
 @import 'homepage';
-@import 'footer.scss';
 
 @import url(../fonts/DINPro/stylesheet.css);
 @import url(../fonts/fontello-5a3dbc9b/css/fontello.css);
